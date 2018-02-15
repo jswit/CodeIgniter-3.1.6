@@ -1,6 +1,8 @@
 # CodeIgniter-3.1.6
  Mainly used in my work and study
+该项目主要用于对CI框架，以及对于微信公众号的开发等学
 
+# GIT版本控制器使用方法
 …or create a new repository on the command line
 echo "# CodeIgniter-3.1.6" >> README.md
 git init
